@@ -1,6 +1,6 @@
 {
   "name": "mapob",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple object injection",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,5 @@
   "author": "KillerWave LLC",
   "email": "mark@killerwave.net",
   "license": "open",
-  "dependencies": {
-  }
+  "dependencies": {}
 }

@@ -9,11 +9,11 @@ $ npm install mapob
 
 ## How to use
 ```js
-var mongoose = require('mapob');
+var mapob = require('mapob');
 var objectA = { hello: 'world'};
 var objectB = { goodbye: 'world'};
 
-obinject.inject(objectA, objectB, function(err, aOnToBe){
+mapob.inject(objectA, objectB, function(err, aOnToBe){
    console.log(aOnToBe); //{ hello: 'world', goodbye: 'world'};
 });
 

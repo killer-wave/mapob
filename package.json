@@ -1,18 +1,18 @@
 {
-  "name": "@governor/gov-obinject",
+  "name": "mapob",
   "version": "0.0.0",
-  "description": "Governor object injection",
+  "description": "Simple object injection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/governorcms/gov-fast.git"
+    "url": "https://github.org/killer-wave/mapob.git"
   },
-  "author": "Mark Bashansci",
-  "email": "mark@theoldstate.com",
-  "license": "proprietary",
+  "author": "KillerWave LLC",
+  "email": "mark@killerwave.net",
+  "license": "open",
   "dependencies": {
   }
 }
